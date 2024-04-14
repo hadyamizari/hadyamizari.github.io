@@ -1,9 +1,10 @@
-import {Container, Typography} from '@mui/material'
+import {Container} from '@mui/material'
+import Header from './components/Header'
 
 const App = () => {
   return (
     <Container>
-      <Typography color='black'>It Works</Typography>
+      <Header />
     </Container>
   )
 }
