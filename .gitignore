@@ -131,3 +131,6 @@ dist
 
 # Distribution Build
 build/
+
+# macos file system
+*.DS_Store
