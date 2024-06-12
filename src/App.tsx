@@ -1,11 +1,10 @@
-import {Container} from '@mui/material'
-import Header from './components/Header'
+import NavTabs from './components/NavTabs'
 
 const App = () => {
   return (
-    <Container>
-      <Header />
-    </Container>
+    <>
+      <NavTabs />
+    </>
   )
 }
 

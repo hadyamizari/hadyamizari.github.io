@@ -1,6 +1,6 @@
 const header = {
   homepage: '/',
-  title: 'Hadya',
+  title: 'HM.',
 }
 
 const about = {

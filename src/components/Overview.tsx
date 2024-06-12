@@ -3,7 +3,9 @@ import {Container, Typography} from '@mui/material'
 const Overview = () => {
   return (
     <Container>
-      <Typography variant='h3'>Hi, I am Hadya Mizari.</Typography>
+      <Typography variant='h3' color={'red'}>
+        Hi, I am Hadya Mizari.
+      </Typography>
 
       <Typography variant='subtitle1'>A Frontend Developer.</Typography>
 
