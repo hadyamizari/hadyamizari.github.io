@@ -1,6 +1,5 @@
 import React from 'react'
 import Card from 'react-bootstrap/Card'
-import {ImPointRight} from 'react-icons/im'
 import {TbPoint} from 'react-icons/tb'
 
 function AboutCard() {
@@ -32,7 +31,7 @@ function AboutCard() {
             </li>
           </ul>
 
-          <p style={{color: 'rgb(155 126 172)'}}>
+          <p style={{color: '#4b8abb'}}>
             "Any application that can be written in JavaScript will eventually
             be written in JavaScript!"{' '}
           </p>
