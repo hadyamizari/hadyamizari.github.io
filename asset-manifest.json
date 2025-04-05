@@ -1,12 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.0fe81f8c.js",
+    "main.css": "/static/css/main.513a154a.css",
+    "main.js": "/static/js/main.e6bc46e3.js",
+    "static/js/453.405cd374.chunk.js": "/static/js/453.405cd374.chunk.js",
+    "static/media/Hadya_Mizari_Resume.pdf": "/static/media/Hadya_Mizari_Resume.a283a322c1e958d67342.pdf",
+    "static/media/home-main.png": "/static/media/home-main.3f7eb677176e53469023.png",
+    "static/media/about.png": "/static/media/about.1bf1928404f8fc51c093.png",
+    "static/media/avatar.png": "/static/media/avatar.54c9dc9d8206f2c54f79.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.297c71400b30a1634902.svg",
+    "static/media/logo.svg": "/static/media/logo.43f60affc35b34eae2cb610f6cf69a1a.svg",
     "index.html": "/index.html",
-    "main.0fe81f8c.js.map": "/static/js/main.0fe81f8c.js.map"
+    "main.513a154a.css.map": "/static/css/main.513a154a.css.map",
+    "main.e6bc46e3.js.map": "/static/js/main.e6bc46e3.js.map",
+    "453.405cd374.chunk.js.map": "/static/js/453.405cd374.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.0fe81f8c.js"
+    "static/css/main.513a154a.css",
+    "static/js/main.e6bc46e3.js"
   ]
 }
